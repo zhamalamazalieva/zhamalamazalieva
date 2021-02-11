@@ -1,7 +1,7 @@
 ### Hi there, I am a Front-end Developer 👋
 
 - 🔭 I’m currently working with React.JS
-- 🌱 I’m currently learning React.JS and Redux
+- 🌱 I’m currently learning NodeJS (backend development)
 - 👯 I’m looking to collaborate on CSS, HTML, ReactJS...
 - 🤔 I’m looking for help with Node.js
 - 💬 If you have questions, I will answer with pleasure!
